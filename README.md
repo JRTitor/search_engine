@@ -3,6 +3,10 @@
 
 https://drive.google.com/drive/folders/1HdCWVTaAXIBa-MRqbrDXii94UI41vxmC?usp=sharing
 
+Запуск:
+1) открыть http://localhost в браузере
+2) запустить server.py
+
 скрины с демонстрацией 
 ![image](https://user-images.githubusercontent.com/68708953/178154116-e00fca4c-2a70-48e2-9ebb-306f5e8bffeb.png)
 ![image](https://user-images.githubusercontent.com/68708953/178154119-33c86064-d5cb-4c37-a667-a4ff3b4e0fb2.png)
